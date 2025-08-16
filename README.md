@@ -1,4 +1,6 @@
 Excel Sales Insights 📊
+<img width="1536" height="1024" alt="cover" src="https://github.com/user-attachments/assets/5927f99b-a140-4aff-bd08-578d0cedc7b0" />
+
 📌 Project Overview
 
 This project analyzes sales data using Excel functions to uncover key business insights. The goal was to clean raw data, perform analysis, and present results in a structured way.
